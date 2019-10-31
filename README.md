@@ -1,2 +1,1 @@
 # KulinerIndonesia
-Submission Dicoding
